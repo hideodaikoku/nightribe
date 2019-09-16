@@ -1,0 +1,35 @@
+@font-face{
+    font-family: 'windsor';
+    src: url('./assets/windsorbq-bold.otf');
+}
+*{
+    font-family: 'windsor'
+}
+
+body{
+    background-color: #e6d6c1;
+}
+
+h1, h2{
+    text-align: center;
+    margin: 0 auto;
+}
+
+img{
+    width:25%; 
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.title{
+    display: block;
+}
+
+.hero-img{
+    display: block;
+    text-align:center;
+}
+
+#spotify{
+    padding-top: 10px;
+}

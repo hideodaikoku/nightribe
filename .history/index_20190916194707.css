@@ -1,0 +1,14 @@
+@font-face{
+    font-family: 'windsor';
+    src: url('./assets/windsorbq-bold.otf');
+}
+*{
+    font-family: 'windsor'
+}
+
+.title{
+    display: flex;
+    text-align: center;
+    margin: 0 auto;
+}
+
