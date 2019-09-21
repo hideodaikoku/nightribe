@@ -2,13 +2,7 @@
     font-family: 'windsor';
     src: url('./assets/windsorbq-bold.otf');
 }
-
-* {
-    margin: 0;
-    padding: 0;
-}
-
 iframe{
-    width:100vw;
-    height:100vh;
+    width:100%;
+    height:100%;
 }
